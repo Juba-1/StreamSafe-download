@@ -1,6 +1,6 @@
 {
- "payload": "{\"app\": {\"bytes\": 147991550, \"notes_ar\": \"تحديث جديد: زر طوارئ يغطي الشاشة كاملة، خيار تغطية الشاشة كاملة، تجربة بدون بث، منصة ثانية بنفس الوقت، وتنبيهات قبل البث.\", \"notes_en\": \"New: panic key, whole-screen mode, trial without going live, a second platform, pre-stream warnings.\", \"sha256\": \"792e4d8d8f47282095d6c517e9a50d142fb3502a823cc55209457fb8036a8c9d\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.31/StreamSafe-Setup.exe\", \"version\": \"3.0.0.31\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 2}",
+ "payload": "{\"app\": {\"bytes\": 148004413, \"notes_ar\": \"إصلاح: الشاشة الطولية (تيك توك) تطلع بشكلها الصحيح بدل ما تنمط.\", \"notes_en\": \"Fix: a vertical (TikTok) OBS canvas keeps its shape.\", \"sha256\": \"08c0241fb8f4c653c4338656f6877c045f83b61dbed1ebc20dbc02dc0658c30f\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.32/StreamSafe-Setup.exe\", \"version\": \"3.0.0.32\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 3}",
  "signatures": [
-  "a04addeb1077b6c2f76b17ad2b71832bc123ea82e724adee895f0894328829643e73df2cbd34b52f69929103fbce9564425cb8889ff40cb6f5a89f5d28124c05"
+  "517c72a8047d889b57fa52a939cbccf70c5c7fd16b9b5fdcad326fcc3f74e9f5338f910adc01e031c248f108eef7f204c3ff0a60c4a83b669588faa9f348940f"
  ]
 }
