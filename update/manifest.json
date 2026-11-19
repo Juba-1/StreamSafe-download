@@ -1,6 +1,6 @@
 {
- "payload": "{\"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 1}",
+ "payload": "{\"app\": {\"bytes\": 147991550, \"notes_ar\": \"تحديث جديد: زر طوارئ يغطي الشاشة كاملة، خيار تغطية الشاشة كاملة، تجربة بدون بث، منصة ثانية بنفس الوقت، وتنبيهات قبل البث.\", \"notes_en\": \"New: panic key, whole-screen mode, trial without going live, a second platform, pre-stream warnings.\", \"sha256\": \"792e4d8d8f47282095d6c517e9a50d142fb3502a823cc55209457fb8036a8c9d\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.31/StreamSafe-Setup.exe\", \"version\": \"3.0.0.31\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 2}",
  "signatures": [
-  "08718140e047001958d34bab74f3d1b04002ce90fc550559bae2b9400d24f8a80b2866b4890210d78e7b9a18da29478e1f3b7a58d631b626d66794c91f7eec05"
+  "a04addeb1077b6c2f76b17ad2b71832bc123ea82e724adee895f0894328829643e73df2cbd34b52f69929103fbce9564425cb8889ff40cb6f5a89f5d28124c05"
  ]
 }
