@@ -1,6 +1,6 @@
 {
- "payload": "{\"app\": {\"bytes\": 148004413, \"notes_ar\": \"إصلاح: الشاشة الطولية (تيك توك) تطلع بشكلها الصحيح بدل ما تنمط.\", \"notes_en\": \"Fix: a vertical (TikTok) OBS canvas keeps its shape.\", \"sha256\": \"08c0241fb8f4c653c4338656f6877c045f83b61dbed1ebc20dbc02dc0658c30f\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.32/StreamSafe-Setup.exe\", \"version\": \"3.0.0.32\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 3}",
+ "payload": "{\"app\": {\"bytes\": 148002123, \"notes_ar\": \"إصلاح التقطيع (البث صار 30 إطار وما يتجاوز سرعة OBS عندك)، تغطية أدق بأخطاء أقل، والشاشة الطولية بشكلها الصحيح.\", \"notes_en\": \"Fixes stutter (30 fps, never above your OBS bitrate), fewer wrong covers, vertical canvas kept.\", \"sha256\": \"4f17cf33f68e3bb38070df039b2f2c10a88fc0919a56d3880440bf1f1bf0f365\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.33/StreamSafe-Setup.exe\", \"version\": \"3.0.0.33\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 4}",
  "signatures": [
-  "517c72a8047d889b57fa52a939cbccf70c5c7fd16b9b5fdcad326fcc3f74e9f5338f910adc01e031c248f108eef7f204c3ff0a60c4a83b669588faa9f348940f"
+  "a15af1501334263e9ffd37445d19f5b478dcbafa5c915439b45194d3a7ca42932409f0d0984516f0d4dcadc09e76d9841264643f1beecb1463e9552139b34a0d"
  ]
 }
