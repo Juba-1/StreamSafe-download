@@ -1,6 +1,6 @@
 {
- "payload": "{\"app\": {\"bytes\": 148002123, \"notes_ar\": \"إصلاح التقطيع (البث صار 30 إطار وما يتجاوز سرعة OBS عندك)، تغطية أدق بأخطاء أقل، والشاشة الطولية بشكلها الصحيح.\", \"notes_en\": \"Fixes stutter (30 fps, never above your OBS bitrate), fewer wrong covers, vertical canvas kept.\", \"sha256\": \"4f17cf33f68e3bb38070df039b2f2c10a88fc0919a56d3880440bf1f1bf0f365\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.33/StreamSafe-Setup.exe\", \"version\": \"3.0.0.33\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 4}",
+ "payload": "{\"app\": {\"bytes\": 148017365, \"notes_ar\": \"إصلاح زر «حدّث الآن».\", \"notes_en\": \"Fixes the Update now button.\", \"sha256\": \"e6ab31b2dc84d656e1211b52ec45def9bd94ca70fc355d08da1e581e23b0091c\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.34/StreamSafe-Setup.exe\", \"version\": \"3.0.0.34\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 5}",
  "signatures": [
-  "a15af1501334263e9ffd37445d19f5b478dcbafa5c915439b45194d3a7ca42932409f0d0984516f0d4dcadc09e76d9841264643f1beecb1463e9552139b34a0d"
+  "2723025e9953c07c26b2168c71e90f83038bb9d305d1a785d63239c9b555990d2d34af0c5c202a748a875878e9ec157c34ec70e2c04f76127cf634892cd07309"
  ]
 }
