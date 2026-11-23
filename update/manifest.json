@@ -1,6 +1,6 @@
 {
- "payload": "{\"app\": {\"bytes\": 148017365, \"notes_ar\": \"إصلاح زر «حدّث الآن».\", \"notes_en\": \"Fixes the Update now button.\", \"sha256\": \"e6ab31b2dc84d656e1211b52ec45def9bd94ca70fc355d08da1e581e23b0091c\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.34/StreamSafe-Setup.exe\", \"version\": \"3.0.0.34\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 5}",
+ "payload": "{\"app\": {\"bytes\": 149718824, \"notes_ar\": \"جديد: شريط الحساسية تغيّره وأنت تبث، وزر «حدد مكان الكاميرا» عشان البرنامج ما يغطيك أنت.\", \"notes_en\": \"New: live sensitivity slider, and Mark your webcam so you are never covered.\", \"sha256\": \"967c21fb7515a01da4d0f5f229ef1b5c60630aae8fdeb4a822dcadd1cbbec72b\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.35/StreamSafe-Setup.exe\", \"version\": \"3.0.0.35\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 6}",
  "signatures": [
-  "2723025e9953c07c26b2168c71e90f83038bb9d305d1a785d63239c9b555990d2d34af0c5c202a748a875878e9ec157c34ec70e2c04f76127cf634892cd07309"
+  "c7e3270f99d87045e49b484732f184a0a371020ca6360632551400a164e13a32303d8b70a9835b1d3bee6403b3077084f2907df1709e0e83cdba8b7ceb943806"
  ]
 }
