@@ -1,6 +1,6 @@
 {
- "payload": "{\"app\": {\"bytes\": 149724543, \"notes_ar\": \"الحساسية «خفيفة» صارت تخفف فعلاً: تغطي الواضح بس.\", \"notes_en\": \"Light sensitivity now really covers only clear cases.\", \"sha256\": \"4d132b7b2bf7090f61a5e809ff9c0a476db6f26c93ac706388c3c1ebe4f657b5\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.36/StreamSafe-Setup.exe\", \"version\": \"3.0.0.36\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 7}",
+ "payload": "{\"app\": {\"bytes\": 149729734, \"notes_ar\": \"جديد: زر «لبّس الكل» للإعلانات، يلبّس كل الشخصيات حتى الرجال.\", \"notes_en\": \"New: Dress everyone switch for ads (men too).\", \"sha256\": \"0f03e0f034bac8af1503586351595da69c54631fde74336ae4334be40606107a\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.37/StreamSafe-Setup.exe\", \"version\": \"3.0.0.37\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 8}",
  "signatures": [
-  "a9e1e501be1afa5cf22f3bc8ae8896fd0b59ce844f6c116b73c337524b937056721e38e633dc49a98cb35dd9df2f32fa967c588845ea1d49c360ac0a4cc94b0b"
+  "5bc7c7e7fbb70d0fa87d3491ab8286033d69139d3600f363a309ef1a987a341c26b16765b746ef9d38e02c048ce73e25f3f021b6bb81ccdfd8a906a38fcfa80c"
  ]
 }
