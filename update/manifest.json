@@ -1,6 +1,6 @@
 {
- "payload": "{\"app\": {\"bytes\": 149718824, \"notes_ar\": \"جديد: شريط الحساسية تغيّره وأنت تبث، وزر «حدد مكان الكاميرا» عشان البرنامج ما يغطيك أنت.\", \"notes_en\": \"New: live sensitivity slider, and Mark your webcam so you are never covered.\", \"sha256\": \"967c21fb7515a01da4d0f5f229ef1b5c60630aae8fdeb4a822dcadd1cbbec72b\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.35/StreamSafe-Setup.exe\", \"version\": \"3.0.0.35\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 6}",
+ "payload": "{\"app\": {\"bytes\": 149724543, \"notes_ar\": \"الحساسية «خفيفة» صارت تخفف فعلاً: تغطي الواضح بس.\", \"notes_en\": \"Light sensitivity now really covers only clear cases.\", \"sha256\": \"4d132b7b2bf7090f61a5e809ff9c0a476db6f26c93ac706388c3c1ebe4f657b5\", \"url\": \"https://github.com/Juba-1/StreamSafe-download/releases/download/v3.0.0.36/StreamSafe-Setup.exe\", \"version\": \"3.0.0.36\"}, \"format\": 1, \"product\": \"streamsafe-app\", \"serial\": 7}",
  "signatures": [
-  "c7e3270f99d87045e49b484732f184a0a371020ca6360632551400a164e13a32303d8b70a9835b1d3bee6403b3077084f2907df1709e0e83cdba8b7ceb943806"
+  "a9e1e501be1afa5cf22f3bc8ae8896fd0b59ce844f6c116b73c337524b937056721e38e633dc49a98cb35dd9df2f32fa967c588845ea1d49c360ac0a4cc94b0b"
  ]
 }
